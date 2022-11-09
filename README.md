@@ -14,6 +14,7 @@ A simple app to track activities, fitness levels and find others like you. [Try 
 
 ---
 
+
 ### Screenshots
 
 #### Landing Page
