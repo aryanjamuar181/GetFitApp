@@ -1,7 +1,7 @@
 # PROBLEM STATEMENT
  Ideas that can boost fitness activites and assist in keeping fit.
 
-# TEAM MEMBERS:
+# TEAM MEMBERS
 S.No.    NAME             ROLL NO.
    1.    ANSHUMAN ANAND   BTECH/10104/20
    2.    ARYAN JAMUAR     BTECH/10181/20
