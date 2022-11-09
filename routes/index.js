@@ -39,6 +39,7 @@ router.post('/profile/add/:id',
 router.get('/profile/:slug', catchErrors(profileController.getProfileBySlug));
 
 
+
 // add/edit fitness data if user is logged in
 router.get('/fitness/add', authController.isLoggedIn, catchErrors(fitnessController.addEditFitness));
 router.get('/fitness/edit', authController.isLoggedIn, catchErrors(fitnessController.addEditFitness));
