@@ -9,6 +9,8 @@ const autoprefixer = require('autoprefixer');
 //   loader: 'file-loader'
 // };
 
+
+
 // This is our JavaScript rule that specifies what to do with .js files
 const javascript = {
   test: /\.(js)$/, // match anything that ends in `.js`
